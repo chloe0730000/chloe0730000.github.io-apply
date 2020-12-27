@@ -1,6 +1,7 @@
 html, body {
   padding: 0px;
-  margin: 20px;
+  margin: 15px;
+  line-height: 2;
 }
 
 .intro {
@@ -31,6 +32,14 @@ html, body {
   color: #FFA500;
   font-size: 24px;
   text-align: center;
+}
+
+ul li {
+  font-size: 18px;
+}
+
+ol li {
+  font-size: 18px;
 }
 
 .content {

@@ -5,7 +5,8 @@ $color_yellow: #FFA500;
 
 html, body{
     padding: 0px;
-    margin: 20px;
+    margin: 15px;
+    line-height: 2;
 }
 
 
@@ -39,12 +40,17 @@ html, body{
     text-align: center;
 }
 
+ul li{
+    font-size: $font_base_size*1.5;
+}
 
+ol li{
+    font-size: $font_base_size*1.5;
+}
 
 .content{
     font-size: $font_base_size*1.5;
 }
-
 
 
 
